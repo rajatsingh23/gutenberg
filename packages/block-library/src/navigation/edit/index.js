@@ -566,7 +566,7 @@ function Navigation( {
 	const submenuAccessibilityNotice =
 		! showSubmenuIcon && ! openSubmenusOnClick
 			? __(
-					'To improve accessibility, enable "Open on Click" or "Show arrow" for easier navigation by keyboard users.'
+					'Enable "Open on Click" or "Show arrow" to enhance keyboard navigation and accessibility.'
 			  )
 			: '';
 
